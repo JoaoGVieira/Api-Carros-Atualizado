@@ -1,0 +1,23 @@
+*{
+    text-decoration: none;
+    color: white;
+}
+.header{
+    display: flex;  
+    justify-content: center;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height: 140%;
+    font-weight: 600;
+    object-fit: cover;
+    height: 15vh;
+    background-image: url('C:\Users\12201162\Documents\Carros\src\pages\home\imagens\fundocarro.png');
+   background-repeat: no-repeat;
+   background-size: 100%;
+   background-position: center;
+}
+
+.logo{
+    margin-top: 2vh;
+}

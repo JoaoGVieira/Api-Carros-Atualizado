@@ -1,0 +1,17 @@
+.entrar{ 
+    background-color:var(--gray);
+    width: 20vh;
+    height: 5vh;
+    box-shadow: none;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.entrar:hover{ 
+    width: 22vh;
+    height: 5vh;
+    background-color: var(--white);
+    color: var(--background);
+}

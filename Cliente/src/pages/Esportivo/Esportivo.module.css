@@ -1,0 +1,15 @@
+body{ 
+    color: var(--black);
+}
+
+
+
+.sport{ 
+    width: 100%;
+    text-align: center;
+}
+
+.margin{ 
+    margin-bottom: 10vh;
+    list-style-type: none 
+}

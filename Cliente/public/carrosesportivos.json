@@ -1,0 +1,84 @@
+{
+    "sporty_cars": [
+      {
+        "brand": "Porsche",
+        "model": "911 Carrera S",
+        "engine": "3.0L twin-turbo flat-6",
+        "horsepower": 443,
+        "top_speed_mph": 191,
+        "price_usd": 120000
+      },
+      {
+        "brand": "Chevrolet",
+        "model": "Corvette Stingray",
+        "engine": "6.2L V8",
+        "horsepower": 490,
+        "top_speed_mph": 194,
+        "price_usd": 65000
+      },
+      {
+        "brand": "BMW",
+        "model": "M2 Competition",
+        "engine": "3.0L twin-turbo inline-6",
+        "horsepower": 405,
+        "top_speed_mph": 174,
+        "price_usd": 59000
+      },
+      {
+        "brand": "Ford",
+        "model": "Mustang Shelby GT500",
+        "engine": "5.2L supercharged V8",
+        "horsepower": 760,
+        "top_speed_mph": 180,
+        "price_usd": 72000
+      },
+      {
+        "brand": "Audi",
+        "model": "R8 V10 Performance",
+        "engine": "5.2L V10",
+        "horsepower": 602,
+        "top_speed_mph": 205,
+        "price_usd": 170000
+      },
+      {
+        "brand": "Ferrari",
+        "model": "488 GTB",
+        "engine": "3.9L twin-turbo V8",
+        "horsepower": 661,
+        "top_speed_mph": 205,
+        "price_usd": 300000
+      },
+      {
+        "brand": "Lamborghini",
+        "model": "Huracan Evo",
+        "engine": "5.2L V10",
+        "horsepower": 631,
+        "top_speed_mph": 202,
+        "price_usd": 260000
+      },
+      {
+        "brand": "McLaren",
+        "model": "720S",
+        "engine": "4.0L twin-turbo V8",
+        "horsepower": 710,
+        "top_speed_mph": 212,
+        "price_usd": 300000
+      },
+      {
+        "brand": "Aston Martin",
+        "model": "DBS Superleggera",
+        "engine": "5.2L twin-turbo V12",
+        "horsepower": 715,
+        "top_speed_mph": 211,
+        "price_usd": 330000
+      },
+      {
+        "brand": "Nissan",
+        "model": "GT-R Nismo",
+        "engine": "3.8L twin-turbo V6",
+        "horsepower": 600,
+        "top_speed_mph": 205,
+        "price_usd": 210000
+      }
+    ]
+  }

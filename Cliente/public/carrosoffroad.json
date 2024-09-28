@@ -1,0 +1,84 @@
+{
+    "off_road_cars": [
+      {
+        "brand": "Jeep",
+        "model": "Wrangler Rubicon",
+        "engine": "3.6L V6",
+        "horsepower": 285,
+        "top_speed_mph": 110,
+        "price_usd": 38000
+      },
+      {
+        "brand": "Toyota",
+        "model": "Land Cruiser",
+        "engine": "5.7L V8",
+        "horsepower": 381,
+        "top_speed_mph": 130,
+        "price_usd": 85000
+      },
+      {
+        "brand": "Ford",
+        "model": "Bronco",
+        "engine": "2.7L twin-turbo V6",
+        "horsepower": 310,
+        "top_speed_mph": 120,
+        "price_usd": 45000
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "model": "G-Class",
+        "engine": "4.0L V8",
+        "horsepower": 416,
+        "top_speed_mph": 137,
+        "price_usd": 130000
+      },
+      {
+        "brand": "Land Rover",
+        "model": "Defender 110",
+        "engine": "3.0L inline-6",
+        "horsepower": 395,
+        "top_speed_mph": 119,
+        "price_usd": 65000
+      },
+      {
+        "brand": "Subaru",
+        "model": "Outback",
+        "engine": "2.4L turbocharged flat-4",
+        "horsepower": 260,
+        "top_speed_mph": 130,
+        "price_usd": 38000
+      },
+      {
+        "brand": "Ford",
+        "model": "Ranger Raptor",
+        "engine": "2.0L twin-turbo diesel inline-4",
+        "horsepower": 213,
+        "top_speed_mph": 106,
+        "price_usd": 45000
+      },
+      {
+        "brand": "Toyota",
+        "model": "4Runner TRD Pro",
+        "engine": "4.0L V6",
+        "horsepower": 270,
+        "top_speed_mph": 115,
+        "price_usd": 50000
+      },
+      {
+        "brand": "Jeep",
+        "model": "Grand Cherokee Trailhawk",
+        "engine": "5.7L V8",
+        "horsepower": 360,
+        "top_speed_mph": 130,
+        "price_usd": 60000
+      },
+      {
+        "brand": "Land Rover",
+        "model": "Discovery",
+        "engine": "3.0L V6",
+        "horsepower": 340,
+        "top_speed_mph": 130,
+        "price_usd": 70000
+      }
+    ]
+  }

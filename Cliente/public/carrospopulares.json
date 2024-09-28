@@ -1,0 +1,85 @@
+{
+    "popular_cars": [
+      {
+        "brand": "Toyota",
+        "model": "Corolla",
+        "engine": "1.8L inline-4",
+        "horsepower": 139,
+        "top_speed_mph": 120,
+        "price_usd": 23000
+      },
+      {
+        "brand": "Honda",
+        "model": "Civic",
+        "engine": "2.0L inline-4",
+        "horsepower": 158,
+        "top_speed_mph": 125,
+        "price_usd": 24000
+      },
+      {
+        "brand": "Ford",
+        "model": "F-150",
+        "engine": "3.5L V6",
+        "horsepower": 400,
+        "top_speed_mph": 120,
+        "price_usd": 45000
+      },
+      {
+        "brand": "Chevrolet",
+        "model": "Silverado 1500",
+        "engine": "5.3L V8",
+        "horsepower": 355,
+        "top_speed_mph": 115,
+        "price_usd": 48000
+      },
+      {
+        "brand": "Nissan",
+        "model": "Altima",
+        "engine": "2.5L inline-4",
+        "horsepower": 188,
+        "top_speed_mph": 125,
+        "price_usd": 26000
+      },
+        {
+            "brand": "Toyota",
+            "model": "Camry",
+            "engine": "2.5L inline-4",
+            "horsepower": 203,
+            "top_speed_mph": 130,
+            "price_usd": 27000
+        },
+        {
+            "brand": "Honda",
+            "model": "Accord",
+            "engine": "1.5L inline-4",
+            "horsepower": 192,
+            "top_speed_mph": 125,
+            "price_usd": 28000
+        },
+        {
+            "brand": "Chevrolet",
+            "model": "Equinox",
+            "engine": "1.5L inline-4",
+            "horsepower": 170,
+            "top_speed_mph": 120,
+            "price_usd": 30000
+        },
+        {
+            "brand": "Ford",
+            "model": "Mustang",
+            "engine": "5.0L V8",
+            "horsepower": 460,
+            "top_speed_mph": 155,
+            "price_usd": 42000
+        },
+        {
+            "brand": "Tesla",
+            "model": "Model 3",
+            "engine": "Electric",
+            "horsepower": 283,
+            "top_speed_mph": 145,
+            "price_usd": 50000
+        }
+
+    ]
+  }

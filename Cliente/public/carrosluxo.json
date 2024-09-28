@@ -1,0 +1,85 @@
+
+{
+    "ferrari_cars": [
+        {
+            "brand": "Ferrari",
+            "model": "Ferrari 488 GTB",
+            "engine": "3.9L twin-turbo V8",
+            "horsepower": 661,
+            "top_speed_mph": 205,
+            "price_usd": 300000
+        },
+        {
+            "brand": "Ferrari",
+            "model": "Ferrari Portofino",
+            "engine": "3.9L twin-turbo V8",
+            "horsepower": 591,
+            "top_speed_mph": 199,
+            "price_usd": 215000
+        },
+        {
+            "brand": "Ferrari",
+            "model": "Ferrari F8 Tributo",
+            "engine": "3.9L twin-turbo V8",
+            "horsepower": 710,
+            "top_speed_mph": 211,
+            "price_usd": 275000
+        },
+        {
+            "brand": "Ferrari",
+            "model": "Ferrari SF90 Stradale",
+            "engine": "4.0L twin-turbo V8 + electric motors",
+            "horsepower": 986,
+            "top_speed_mph": 211,
+            "price_usd": 625000
+        },
+        {
+            "brand": "Ferrari",
+            "model": "Ferrari LaFerrari",
+            "engine": "6.3L V12 + electric motor",
+            "horsepower": 949,
+            "top_speed_mph": 217,
+            "price_usd": 1500000
+        },
+        {
+            "brand": "Koenigsegg",
+            "model": "Koenigsegg Jesko",
+            "engine": "5.0L twin-turbo V8",
+            "horsepower": 1600,
+            "top_speed_mph": 300,
+            "price_usd": 2800000
+        },
+        {
+            "brand": "Bugatti",
+            "model": "Bugatti Chiron Super Sport 300+",
+            "engine": "8.0L quad-turbo W16",
+            "horsepower": 1600,
+            "top_speed_mph": 304,
+            "price_usd": 3500000
+        },
+        {
+        "brand": "McLaren",
+        "model": "McLaren Senna",
+        "engine": "4.0L twin-turbo V8",
+        "horsepower": 800,
+        "top_speed_mph": 208,
+        "price_usd": 1000000
+      },
+      {
+        "brand": "Aston Martin",
+        "model": "Aston Martin DBS Superleggera",
+        "engine": "5.2L twin-turbo V12",
+        "horsepower": 715,
+        "top_speed_mph": 211,
+        "price_usd": 350000
+      },
+      {
+        "brand": "Porsche",
+        "model": "Porsche 911 Turbo S",
+        "engine": "3.8L twin-turbo flat-6",
+        "horsepower": 640,
+        "top_speed_mph": 205,
+        "price_usd": 200000
+      }
+    ]
+}
